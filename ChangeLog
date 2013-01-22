@@ -1,0 +1,18 @@
+2013-01-18  Michal Wojciechowski  <odyniec at odyniec.net>
+
+	* Got back to the project after almost 10 years!
+	* Refactored (and reformatted) some of the code
+	* Changed the license to MIT
+	* Released as version 0.12 on GitHub
+
+2003-07-15  Michal Wojciechowski  <odyniec at odyniec.net>
+
+	* Version 0.11 released
+	* Added device support
+	* Added some comments for better code readability
+	* Removed lib/test
+
+2003-04-17  Michal Wojciechowski  <odyniec at odyniec.fdns.net>
+
+	* Version 0.1 released
+

@@ -1,0 +1,23 @@
+#ifndef _ERRSTR_H
+#define _ERRSTR_H 1
+
+const char * errstr(int err);
+
+enum {
+  ERR_OK = 0,
+  ERR_OPTION_UNKNOWN,
+  ERR_CANT_OPEN_INPUT,
+  ERR_CANT_OPEN_OUTPUT,
+  ERR_INVALID_INSTR,
+  ERR_INVALID_ALF,
+  ERR_SYMBOL_DEFINED,
+  ERR_SYMBOL_INVALID,
+  ERR_SYMBOL_UNKNOWN,
+  ERR_LOCAL_UNKNOWN,
+  ERR_LOCALF_IN_EXPR,
+  ERR_DIV_BY_ZERO,
+  ERR_PARSE_ERROR
+};
+
+#endif   /* errstr.h */
+

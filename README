@@ -1,0 +1,16 @@
+MIXemu
+
+MIXemu is a simulator of the MIX computer invented by Donald Knuth and
+described in his famous book "The Art of Computer Programming".
+
+Two programs are included in the package: mixemu, a basic command line
+interface for the MIX simulator, and mixasm - a MIXAL assembler.
+
+Installation instructions for the impatient:
+
+  ./configure
+  make
+  make install
+
+For more detailed installation instructions see the INSTALL file.
+
